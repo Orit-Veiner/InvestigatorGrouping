@@ -1,0 +1,5 @@
+c:\Users\OritV\Documents\Visual Studio 2010\Projects\InvestigatorGrouping\InvestigatorGrouping\bin\Debug\Appendix\InvestigatorInput.txt
+c:\Users\OritV\Documents\Visual Studio 2010\Projects\InvestigatorGrouping\InvestigatorGrouping\bin\Debug\InvestigatorGrouping.exe
+c:\Users\OritV\Documents\Visual Studio 2010\Projects\InvestigatorGrouping\InvestigatorGrouping\bin\Debug\InvestigatorGrouping.pdb
+c:\Users\OritV\Documents\Visual Studio 2010\Projects\InvestigatorGrouping\InvestigatorGrouping\obj\x86\Debug\InvestigatorGrouping.exe
+c:\Users\OritV\Documents\Visual Studio 2010\Projects\InvestigatorGrouping\InvestigatorGrouping\obj\x86\Debug\InvestigatorGrouping.pdb
